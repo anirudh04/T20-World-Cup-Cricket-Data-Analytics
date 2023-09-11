@@ -3,6 +3,10 @@
 # Overview
 This project focuses on conducting data analytics on T20 World Cup cricket data to identify the top 11 players for assembling a fantasy cricket team.
 
+# Dashboard
+<img src="Cricket_Analysis.PNG">
+
+**Dashboard Link:** https://app.powerbi.com/links/KN9ooioltl?ctid=68f381e3-46da-47b9-ba57-6f322b8f0da1&pbi_source=linkShare
 
 # Data Collection
 - Cleaning and transforming the raw data into structured CSV files using Pandas in Python.
